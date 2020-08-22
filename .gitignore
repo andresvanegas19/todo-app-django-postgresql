@@ -1,2 +1,12 @@
 __pycache__
 migrations
+db.sqlite3
+settings.py
+__init__.py
+wsgi.py
+admin.py
+apps.py
+asgi.py
+tests.py
+manage.py
+
